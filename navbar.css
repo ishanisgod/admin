@@ -1,0 +1,31 @@
+#navbar
+{
+    width:100%;
+    margin:auto;
+    padding:0.5% 0;
+    align-items: center;
+    align-items: center;
+    background-color: rgb(8, 245, 229);
+
+   
+}
+
+
+#navbar input[type="button"]
+{
+  
+border-radius: 11px;
+padding-left:2%;
+padding-right: 2%;
+background-color: rgb(57, 195, 149);
+margin-right: 2%;
+padding-top:0.2%;
+padding-bottom:0.2%;
+
+
+text-transform: uppercase;
+
+cursor: pointer;
+opacity: 0.6;
+}
+#navbar input[type="button"]:hover {opacity: 4}
